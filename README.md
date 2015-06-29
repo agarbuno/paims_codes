@@ -1,7 +1,7 @@
 # paims_codes
 
 ### Overview
-This repository contains an extension to the Asymptotically Independent Markov Sampling (AIMS) algorithm for stochastic optimisation purposes and has been currently developed for the estimation of the hyper-parameters of a Gaussian process emulator. This work is part of my PhD research project at the [University of Liverpool](https://www.liv.ac.uk/risk-and-uncertainty/). Currently the only version available is on `Matlab` but it is expected to be written in `R` and `Python` as well in the near future. 
+This repository contains an extension to the Asymptotically Independent Markov Sampling (AIMS) algorithm for stochastic optimisation purposes and has been currently developed for the estimation of the hyper-parameters of a Gaussian process emulator. This work is part of my PhD research project at the [University of Liverpool](https://www.liv.ac.uk/risk-and-uncertainty/). Currently the only version available is on `Matlab` but it is expected to be written in `R` and `Python` in the near future. 
 
 ### Contents
 * A *startup* file to load all directories needed for the sampler.  
