@@ -7,8 +7,8 @@ clear;
 
 rng default;
 global n
-infile = '~/Dropbox/Datafun/model2/training.txt';
-outfile = '~/Dropbox/Datafun/model2/out_5_100.txt';
+infile = 'training.txt';
+outfile = 'out_5_100.txt';
 X = dlmread(infile);
 min_X = min(X);
 max_X = max(X);

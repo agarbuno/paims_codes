@@ -1,7 +1,7 @@
 %% Draw test dataset
 
-infile = '~/Dropbox/Datafun/model2/in_5_150.txt';
-outfile = '~/Dropbox/Datafun/model2/out_5_150.txt';
+infile = 'in_5_150.txt';
+outfile = 'out_5_150.txt';
 Xtry = dlmread(infile);
 Xtry = bsxfun(@rdivide, bsxfun(@minus, Xtry, min_X), (max_X - min_X));
 Ytry = dlmread(outfile);
