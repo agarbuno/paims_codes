@@ -102,7 +102,7 @@ for i = 1:(size(Theta,2)/2)
     % Printing options
         set(gcf, 'PaperPosition', [0.6350 6.3500 20.3200 15.2400]);
         set(gcf, 'PaperSize', [21.0000 29.7000]); 
-        titlefile = sprintf('~/Dropbox/Phd/Research/Reports/Adaptive_intlik/figures/branin_wiresamp_woadap%03d.eps' ,i);
+        titlefile = sprintf('./branin_wiresamp_woadap%03d.eps' ,i);
         saveas( gcf, titlefile, 'eps2c')
     end 
     pause
