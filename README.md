@@ -9,7 +9,7 @@ This repository contains an extension to the Asymptotically Independent Markov S
 ```Matlab
     [ ... ] = parallel_aims_opt( ... ) 
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the main code for the sampler. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the main code for the sampler.  
 * The `examples` directory contains several examples used in the paper submitted with the results obtained from such extension.  
 
 ### Citing
