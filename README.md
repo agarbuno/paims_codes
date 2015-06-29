@@ -13,7 +13,7 @@ This repository contains an extension to the Asymptotically Independent Markov S
 * The `examples` directory contains several examples used in the paper submitted with the results obtained from such extension.  
 
 ### Citing
-We would be grateful if any results based on the this parallel adaptive extension are acknowledge by citing our paper. It is currently available on [arxiv](http://arxiv.org/abs/1506.08010)
+We would be grateful if any results based on this parallel adaptive extension are acknowledged by citing our paper. It is currently available on [arxiv](http://arxiv.org/abs/1506.08010)
 
 ```TeX
 Article{
