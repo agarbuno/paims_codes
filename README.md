@@ -16,12 +16,12 @@ This repository contains an extension to the Asymptotically Independent Markov S
 We would be grateful if any results based on this parallel adaptive extension are acknowledged by citing our paper. It is currently available on [arxiv](http://arxiv.org/abs/1506.08010)
 
 ```TeX
-Article{
-  Title                    = {{Gaussian process hyper-parameter estimation using parallel asymptotically
-independent Markov sampling}},
-  Author                   = {A. Garbuno-Inigo, F.A. DiazDelaO, K.M. Zuev},
+@Article{Garbuno2015,
+  Title                    = {{Gaussian process hyper-parameter estimation using parallel asymptotically independent Markov sampling}},
+  Author                   = {Garbuno-Inigo, Alfredo, and DiazDelaO, F.~A., and Zuev, K.~M.},
   Journal                  = {Arxiv},
   Year                     = {2015},
+
   Archiveprefix            = {arXiv},
   Arxivid                  = {1506.08010},
   Url                      = {http://arxiv.org/abs/1506.08010}
