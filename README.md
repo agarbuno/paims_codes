@@ -13,17 +13,19 @@ This repository contains an extension to the Asymptotically Independent Markov S
 * The `examples` directory contains several examples used in the paper submitted with the results obtained from such extension.  
 
 ### Citing
-We would be grateful if any results based on this parallel adaptive extension are acknowledged by citing our paper. It is currently available on [arxiv](http://arxiv.org/abs/1506.08010)
+We would be grateful if any results based on this parallel adaptive extension are acknowledged by citing our paper. It is currently available [here](http://www.sciencedirect.com/science/article/pii/S0167947316301311)
 
 ```TeX
-@Article{Garbuno2015,
-  Title                    = {{Gaussian process hyper-parameter estimation using parallel asymptotically independent Markov sampling}},
-  Author                   = {Garbuno-Inigo, Alfredo, and DiazDelaO, F.~A., and Zuev, K.~M.},
-  Journal                  = {Arxiv},
-  Year                     = {2015},
-
-  Archiveprefix            = {arXiv},
-  Arxivid                  = {1506.08010},
-  Url                      = {http://arxiv.org/abs/1506.08010}
+@Article{Garbuno2016a,
+  author =   {A. Garbuno-Inigo and F.A. DiazDelaO and K.M. Zuev},
+  title =    {Gaussian process hyper-parameter estimation using Parallel Asymptotically Independent Markov Sampling },
+  journal =  {Computational Statistics \& Data Analysis },
+  year =     {2016},
+  volume =   {103},
+  pages =    {367 - 383},
+  doi =      {http://dx.doi.org/10.1016/j.csda.2016.05.019},
+  issn =     {0167-9473},
+  keywords = {Gaussian process},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0167947316301311}
 }
 ```
